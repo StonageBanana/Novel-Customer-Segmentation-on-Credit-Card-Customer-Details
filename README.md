@@ -1,4 +1,4 @@
-# Novel-Customer-Segmentation-on-Credit-Card-Customer-Details
+# Novel Customer Segmentation on Credit Card Customer Details
 
 ## ABSTRACT 
 Customer segmentation is the process of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, income, behaviour, or location. The goal of customer segmentation is to identify high yield segments – that is, segments that are likely to be the most profitable or that have growth potential – and tailor marketing, products, or services to each group.
